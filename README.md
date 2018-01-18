@@ -1,1 +1,1 @@
-README
+Vefforitun verkefni 1
